@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/app_bg"
+    android:orientation="vertical">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/frg_dashboard_rv_main"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="@dimen/_10sdp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/frg_dashboard_tv_empty"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/no_data_found"
+        android:textSize="@dimen/_20sdp"
+        android:textStyle="bold"
+        android:visibility="gone" />
+</androidx.appcompat.widget.LinearLayoutCompat>
