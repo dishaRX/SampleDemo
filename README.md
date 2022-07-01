@@ -55,7 +55,7 @@
    - Not All iOS And Android APIs Are Available.
    - Build's Production May Be Delayed.
 - **MVP**
-  ![alt text](http://url/to/img.png)
+  ![MVp](mvp_rn.png)
   - MVP architecture pattern provides an easy way to structure the project codes. The reason why MVP is widely accepted is that it provides modularity, testability, and a more clean and maintainable codebase.
 - **TypeScript**
   - TypeScript Code is converted into Plain JavaScript Code: TypeScript code can’t be natively interpreted by browsers. So if the code was written in TypeScript, it gets compiled and converted into JavaScript. This process is known as Trans-piled. With the help of JavaScript code, browsers are able to read the code and display it.
