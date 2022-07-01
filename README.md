@@ -43,7 +43,7 @@
        - We have written test cases to verify that on pressing of next arrow button user is navigating to home page or not
 
 <p align="center">
-  <img width="600" height="200" src="moneyme.gif">
+  <img width="180" height="350" src="moneyme.gif">
 </p>
 
 
