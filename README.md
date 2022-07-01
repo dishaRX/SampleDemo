@@ -73,9 +73,6 @@ my-app/
    - Integrated Access To The Native API.
    - Not All iOS And Android APIs Are Available.
    - Build's Production May Be Delayed.
-- **MVP**
-  ![MVp](mvp_rn.png)
-  - MVP architecture pattern provides an easy way to structure the project codes. The reason why MVP is widely accepted is that it provides modularity, testability, and a more clean and maintainable codebase.
 - **TypeScript**
   - TypeScript Code is converted into Plain JavaScript Code: TypeScript code can’t be natively interpreted by browsers. So if the code was written in TypeScript, it gets compiled and converted into JavaScript. This process is known as Trans-piled. With the help of JavaScript code, browsers are able to read the code and display it.
    - JavaScript is TypeScript: Whatever code is written in JavaScript can be converted to TypeScript by changing the extension from .js to .ts.
@@ -105,5 +102,10 @@ my-app/
     tests  
 - **Animations**
   - The Animated (default feature of react-native) is designed to make animations fluid, powerful, and painless to build and maintain. Animated focuses on declarative relationships between inputs and outputs, configurable transforms in between, and start/stop methods to control time-based animation execution.
+
+## Architecture
+**MVP**
+  ![MVp](mvp_rn.png)
+  MVP architecture pattern provides an easy way to structure the project codes. The reason why MVP is widely accepted is that it provides modularity, testability, and a more clean and maintainable codebase.
 
 
