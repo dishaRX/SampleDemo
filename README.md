@@ -41,14 +41,16 @@
   - On Intro Screen we have written two test cases 
        - To check whether application crashes on intro screen or not
        - We have written test cases to verify that on pressing of next arrow button user is navigating to home page or not
+  - On Home screen we have written two test cases
+       - If user search albumname then list shouild be updated according to particular albumname
+       - If user selects album name then list should be updated according to album name filter,after that if user click on card then user should navigated           to next screen.
+       - If user selects release date then list should be updated according to release date filter,after that if user click on card then user should                 navigated to next screen.
+  -  On Home detail screen we have written one test case
+      - If user click on back arrow then user should navigate to the previous screen.
 
 <p align="center">
   <img width="180" height="350" src="moneyme.gif">
 </p>
-
-
-## TODO Tasks
-- Test cases
 
 ## Package Structure
 ```
@@ -94,7 +96,7 @@ moneyme/
    - Code Reusability. The biggest advantage of React Native is that developers don't need to create separate codes for different platforms (Android and iOS).
 - **Expo** 
   We have used Expo for 
-   - Easy Downloadable.
+   - To download application smoothly.
    - The Fastest Way To Build React Native Apps.
    - Publish Over The Air (OTA) Updates Instantly.
    - Integrated Access To The Native API.
