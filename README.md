@@ -7,6 +7,8 @@
    - Intro Screen (Add-ons)
    - Home Screen
    - HomeDetail Screen
+   - Animations
+   - Unit test cases
 
 ## Features
 - Application launcher icon
