@@ -66,7 +66,7 @@ my-app/
 - **React-Native**
    - Code Reusability. The biggest advantage of React Native is that developers don't need to create separate codes for different platforms (Android and iOS).
 - **Expo** 
-  We have used Expo for 
+ -We have used Expo for 
    - Easy Downloadable.
    - The Fastest Way To Build React Native Apps.
    - Publish Over The Air (OTA) Updates Instantly.
@@ -105,7 +105,9 @@ my-app/
 
 ## Architecture
 **MVP**
+
   ![MVp](mvp_rn.png)
+  
   MVP architecture pattern provides an easy way to structure the project codes. The reason why MVP is widely accepted is that it provides modularity, testability, and a more clean and maintainable codebase.
 
 
