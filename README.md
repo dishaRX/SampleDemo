@@ -42,11 +42,10 @@
        - To check whether application crashes on intro screen or not
        - We have written test cases to verify that on pressing of next arrow button user is navigating to home page or not
 
-![MVp](moneyme.gif?style=centerme)
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
+<p align="center">
+  <img width="600" height="200" src="moneyme.gif">
+</p>
+
 
 ## TODO Tasks
 - Test cases
