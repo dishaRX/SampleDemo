@@ -135,8 +135,10 @@ moneyme/
 ## Architecture
 **MVP**
 
-  ![MVp](mvp_rn.png)
-  
-  MVP architecture pattern provides an easy way to structure the project codes. The reason why MVP is widely accepted is that it provides modularity, testability, and a more clean and maintainable codebase.
+<p align="center">
+  <img width="100" height="100" src="mvp_rn.png">
+</p>
+ 
+MVP architecture pattern provides an easy way to structure the project codes. The reason why MVP is widely accepted is that it provides modularity, testability, and a more clean and maintainable codebase.
 
 
