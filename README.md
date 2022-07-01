@@ -67,7 +67,7 @@
 - **React-Native Navigation**
   - React Navigation is one of the most widely used and actively developed libraries out there on the scene. It is also one of the solutions recommended by the React Native team. It’s the community solution being most pushed by Facebook.
 - **Redux**
-  ![alt text](https://miro.medium.com/max/1400/1*M9d5RTuCdIQUhJuuJY10sw.png)
+  ![alt text](redux_rn.png)
   - Increases the Predictability of a State. In the Redux library, a state is invariably predictable.
   - It is Highly Maintainable.
   - It Prevents Re-renders.
