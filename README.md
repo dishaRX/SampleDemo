@@ -53,17 +53,39 @@
 ## Package Structure
 ```
 com.money.me
-my-app/
-├─ node_modules/
-├─ public/
-│  ├─ favicon.ico
-│  ├─ index.html
-│  ├─ robots.txt
+moneyme/
+├─ __test__/
+│  ├─ App.test.tsx
 ├─ src/
+│  ├─ components/
+│  │  ├─ button/
+│  │  │  ├─ Button.tsx
+│  ├─ constants/
+│  │  ├─ Color.tsx
+│  ├─ navigators/
+│  │  ├─ Index.tsx
+│  ├─ network/
+│  │  ├─ ApiCall.tsx
+│  ├─ redux/
+│  │  ├─ general_reducer/
+│  │  ├─ Index.tsx
+│  │  ├─ Store.tsx
+│  ├─ Screens/
+│  │  ├─ home/
+│  │  │  ├─ home_redux/
+│  │  │  │  ├─ home_reducer/
+├─ assets/
+│  ├─ images/
+│  │  ├─ test.png
+│  ├─ fonts/
+│  │  ├─ roboto.ttf
+│  ├─ Index.tsx
+├─ node_modules/
 │  ├─ index.css
-│  ├─ index.js
 ├─ .gitignore
 ├─ package.json
+├─ App.tsx
+├─ App.json
 ├─ README.md
 ```
 
